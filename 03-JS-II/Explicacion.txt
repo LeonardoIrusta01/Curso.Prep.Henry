@@ -1,0 +1,8 @@
+A continuación explicare lo que es un ciclo "for" dentro de la programacion. El bucle "for" es aquel ciclo que nos permite evaluar expresiones una y otra vez hasta 
+que devuelve lo que estamos buscando o se detiene después de cierto tiempo.
+
+Luego por otro lado, tenemos los operadores logico que son:
+    "&&" que se le denomina AND o en español "Y", la cual nos permite evaluar si dos expresiones o mas para saber 
+si ambas son verdaderas "True" o en caso de que haya alguna distinta nos devolvera como resultado "False".
+    "||" que se le demomina OR o en español "O", la que nos permite comparar si las expreciones que estemos utilizando sean verdaderas o falsas.
+    "!"  que se le denomina NOT o en estañol "NO", es aquel valor booleano que nos devolvera el valor opuesto a lo que estemos aplicando o buscando. 
