@@ -1,0 +1,8 @@
+Los "Arrays" (arreglos) son una lista donde se puden aceptar todo tipo de elementos o tambien pueden ser vacios,y se los tiene que encerrar entre unos corchetes "[]", 
+donde tambien podemos encontrar arreglos dentro de otros arreglos 
+EJEMPLO:
+        Arrays = [] ===> este seria un array vacio.
+
+        Arrays = [1, 2, 3, 4, "Tony", "Leo", Null, False, True] ===> array que contiene numeros, strings y valores booleanos.
+
+        Arrays = [1, 2, 3, 4, 5, [1, 5, 6, 7]] ===> array dentro de otro array. 
