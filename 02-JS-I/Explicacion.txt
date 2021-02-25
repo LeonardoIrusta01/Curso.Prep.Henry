@@ -1,0 +1,11 @@
+Variables: una variable es una forma de almacenar un valor cualquieral, para luego volver a utilizarla.
+
+Strings: es un bloque de texto que se encierra entre comillas dobles o simples.
+
+Funciones: son aquellas que nos permiten reducir las lineas de codigos que se quieran repetir, es decir agruparlas para luego llamarlas. En la misma se encuentran
+los argumentos ( los parametros entre los parentesis de la funcion)que nos permiten pasar valores declarados que se encuentran fueran de la misma. 
+Y por ultimo tenemos el "return" que es aquella instruccion que nos permite sacar los valores obtenidos en la funcion creada anteriormente.
+
+Declaraciones 'IF': la declaracion if es aquella que nos permite comparar o verificar si el valor es verdadero, falso o igual.
+
+Valores Booleanos: en la programacion, estos valores booleanos tienen dos opciones 'true' que es verdadero y 'false' que es falso, donde nos permiten verificar valores.
