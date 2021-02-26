@@ -1,0 +1,7 @@
+    Los obejtos son muy parecidos a los arrays, pero la diferencia es que los "Objetos" pueden contener mucha informacion de una sola cosa y estan situados entre llaves "{}".
+    Las propiedades de esto objetos son aquellas que nos permitiran almacenar los los datos de valor que querramos utulizar mas luego de dicho objeto; entre estos podemos encontrar
+el nombre, edad, hobbie o amigos de una persona.
+    Los metodos que encontraremos en estos objetos son .length, .push, .pop entre otros, y por otro lado tambien podremos establecer una clave para un nombre y un valor a una funcion
+al que lo llamaremos mediante notacion de puntos y parentecis finales.
+    El bucle "for in" Es una sintaxis ligeramente diferente, comienza igual pero entre paréntesis declararemos una variable, la palabra clave in y el nombre del objeto. 
+Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves.
