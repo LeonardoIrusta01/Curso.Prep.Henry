@@ -1,0 +1,3 @@
+    El "Prototype" nos permite agregar mas propiedades a las Clases de obejetos que ya hemos creados anteriormente, es decir, busca nuevas funciones o propiedades que no se 
+encuentren en el momento para compartirlas.
+    Los "_Constructors_" son aquellas a la que llamamos Clases donde podemos cargar muchos objetos que comparten algunas de las mismas propiedades y métodos.
